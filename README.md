@@ -6,6 +6,8 @@
 System.out.printf("Hello world!");
 ```
 
-- 🔭 I’m currently working on <strong>Android IDE</strong>.
+- 🔭 I’m currently working on <strong>AnimePlay</strong>.
 - 🌱 I’m currently learning <strong>Koltlin</strong>
+- 📝 My skills <strong>Java, Koltlin, PHP, JavaScript, NodeJs</strong>...
+- 😳 I'am <strong>Android UI/UX Designer.<strong>
 - 📫 How to reach me: https://t.me/GabrielAplok
